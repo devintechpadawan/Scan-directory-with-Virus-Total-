@@ -5,7 +5,7 @@ This script will take any directory you point it to, walk the path, hash all of 
 
 
 
-Samnple Output
+Sample Output
 
 
 Starting directory: C:\Users\Administrator\Desktop\TARGET
