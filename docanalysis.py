@@ -1,7 +1,7 @@
 #
 # NLTK QUERY Example
 # Devin Taylor
-# August 2023
+# August 2022
 #
 
 import os       # Standard Library OS functions
