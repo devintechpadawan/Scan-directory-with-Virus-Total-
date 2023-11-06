@@ -1,4 +1,4 @@
-# Scan-directory-with-Virus-Total-
+# Scan a directory with Virus Total API
 
 
 <h2>Description</h2>
